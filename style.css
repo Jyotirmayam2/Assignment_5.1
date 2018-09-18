@@ -1,0 +1,17 @@
+* {
+    margin-bottom: 10px;
+}
+body{
+    background: linear-gradient(lightyellow,yellow); /* gradient styling */
+    font-size: 20px;
+}
+header{
+    background-color: blue;
+    border-radius: 50%; /* setting border-radius */
+    width: 140px;
+    height: 70px;
+    text-align: center; /* Text alignment  */
+    color: white;
+    padding: 20px; /* setting internal spacing */    
+    border: 1px solid black; /* border styling */
+}
